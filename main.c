@@ -54,5 +54,6 @@ int multi(int a, int b)
  
 int div(int a, int b)
 {
+	//div function
 	return return a/b;
 }
