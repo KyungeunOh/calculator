@@ -48,7 +48,7 @@ int sub(int a, int b)
  
 int multi(int a, int b)
 {
-    return number1 * number2;
+    return a * b;
 }
  
 int div(int a, int b)
